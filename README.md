@@ -1,4 +1,4 @@
-# Juan Paulo S. Mejia
+*Juan Paulo S. Mejia*
 
 ## Full Stack || Frontend || Web 
 
