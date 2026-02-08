@@ -1,4 +1,4 @@
-## Hi, I'm Juan 👋
+## SOMEJUAN'S GITHUB PROFILE
 
 **Full Stack | Frontend | Web** 
 
