@@ -1,6 +1,6 @@
 ## SOMEJUAN'S GITHUB PROFILE
 
-Hi, I'm Juan 👋 I do full stack tasks to create web solutions
+Hi, I'm Juan 👋 I work on full stack tasks to create web solutions
 
 **Full Stack | Frontend | Web** 
 
