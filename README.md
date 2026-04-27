@@ -1,6 +1,6 @@
 ## Hi, I'm Juan 👋
 
-I work on full stack tasks to create web solutions
+I work on full stack development tasks to create web solutions
 
 **Full Stack | Frontend | Web** 
 
